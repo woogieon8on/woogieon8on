@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 **Backend**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-blue?style=flat)  
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-FF9900?style=flat) ![JaCoCo](https://img.shields.io/badge/JaCoCo-FF0000?style=flat)  
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-FF9900?style=flat)
 
 **DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white) ![ELB](https://img.shields.io/badge/ELB-FF9900?style=flat&logo=aws-elastic-load-balancing&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white) ![Route 53](https://img.shields.io/badge/Route53-8C4FFF?style=flat&logo=amazon-route-53&logoColor=white)  
